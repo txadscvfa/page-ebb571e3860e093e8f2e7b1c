@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9c8217868d59f1e1f95b2a76",
+  "owner": "txadscvfa",
+  "repo": "page-ebb571e3860e093e8f2e7b1c",
+  "title": "樱花加速(SakuraQuicken)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ebb571e3860e093e8f2e7b1c",
+      "a": "樱花加速(SakuraQuicken)",
+      "b": "机场官网线路发布页",
+      "entity": "樱花加速(SakuraQuicken)",
+      "brand": "樱花加速(SakuraQuicken)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3e95ca91825b354e8a2f8a0c653825b515aae8c3bf351be41f5f90fdd7a19561",
+      "content": {
+        "primary_entity": "樱花加速(SakuraQuicken)",
+        "keyword1": "樱花加速(SakuraQuicken)",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，樱花加速提供基础版、旗舰版与团队版三档订阅，月付价格从 ¥15 到 ¥85，按年付分别 ¥150、¥350 与 ¥850。基础版适合手机与电脑两至三台设备轻度使用；旗舰版覆盖五台设备，含 IPLC 专线游戏优化与全节点流媒体解锁；团队版支持二十台设备与专属高带宽节点，适合多人共享或小型办公场景。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖多设备加速",
+          "AI_HERO_INTRO": "樱花加速(SakuraQuicken)面向需要稳定跨境线路的用户，提供基础版、旗舰版、团队版三档订阅。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备并含 IPLC 专线；团队版每月 1000GB、支持 20 台设备。按年付更划算。",
+          "AI_VISUAL_TITLE": "樱花加速多设备订阅方案",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数选择",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "按年付节省约两个月费用",
+          "AI_FEATURES_TITLE": "套餐与设备匹配要点",
+          "AI_FEATURES_INTRO": "根据常用设备数量与月流量需求，在基础版、旗舰版、团队版之间做取舍，同时考虑是否按年付。",
+          "AI_FEATURE_TITLE_1": "按设备数选版本",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，先确认常用手机、电脑与平板总数。",
+          "AI_FEATURE_TITLE_2": "按流量定档位",
+          "AI_FEATURE_TEXT_2": "每月 100GB、300GB、1000GB 三档流量，日常浏览选基础，4K 视频与游戏选旗舰或团队。",
+          "AI_FEATURE_TITLE_3": "按年付更划算",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，相比月付合计可省下约两个月支出。",
+          "AI_CLIENTS_TITLE": "按设备类型选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统可选用对应订阅客户端，Windows、macOS、Android、iOS 均有常见工具，按设备类型下载并导入订阅链接即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，按年付分别 ¥150、¥350、¥850。流量、设备数与节点类型逐档提升，按实际需要选择。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，按步骤操作即可在常用设备上启用樱花加速。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量，在基础版、旗舰版、团队版中确定一档，并选择月付或年付。",
+          "AI_STEP_TITLE_2": "确认设备适配",
+          "AI_STEP_TEXT_2": "查看所用手机、电脑或平板的系统版本，确认可安装对应订阅客户端。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "在客户端中按文档添加订阅链接，完成更新后即可选择节点开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "樱花加速不同套餐主要差别在哪？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备并含 IPLC 专线与流媒体解锁；团队版每月 1000GB、20 台设备，适合多人共享。",
+          "AI_FAQ_QUESTION_2": "可以在几台设备上同时使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台同时在线，旗舰版 5 台，团队版 20 台。超出数量可升级套餐，或减少同时登录的设备。",
+          "AI_FAQ_QUESTION_3": "按年付和月付价格差多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850。相比按月付满一年，年付大致节省两个月费用，长期使用更划算。",
+          "AI_FAQ_QUESTION_4": "订阅链接如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在对应设备客户端中选择添加订阅，粘贴订阅链接后更新节点列表。具体入口因客户端而异，参照所用客户端文档操作即可。",
+          "AI_FAQ_QUESTION_5": "流量用完会怎样？",
+          "AI_FAQ_ANSWER_5": "套餐流量按月刷新，当月用尽后连接会受限。可等到下月恢复，或提前升级到更高流量档位如旗舰版或团队版。",
+          "AI_CLOSING_TITLE": "选对套餐稳定加速",
+          "AI_CLOSING_TEXT": "按设备数量与月流量对比三档套餐，选定后即可在常用客户端导入订阅使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bkbbk.cn",
+    "host": "bkbbk.cn"
+  },
+  "file_hashes": {
+    "index.html": "142fc103e34055a0f492c979c929cb8ec16f1efb105ffe8ab2c9494a7363e703",
+    "sitemap.xml": "4c781da83d7682000dff04f12783929a12125d96d260fe4bba989902ffd16cf0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1f36fdfc965a7ab57f2fa07a3e48a6ca1e9e2c6aededc7582417d77ae2f55cd3",
+    "robots.txt": "d3b0e4bb0a7c4b629399d1764108e8c556f54e4717fe7e2ad5e8881d1332dab7",
+    "e27d6a0e712a2d12cafe87b57dc06020.txt": "1fbc9b8a4ea17014f302f0a2045769bac663b6a22fdefeeaa88e9326c83cfb90"
+  },
+  "revision": "b9d86a7c405eac0b2bf0fbb8978c033d5dcff55a1d32eebacb50283df1987b83"
+}
